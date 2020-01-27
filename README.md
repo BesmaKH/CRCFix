@@ -5,7 +5,7 @@ CRCFix is a program repair tool build based on the [Astor]( https://github.com/S
 #  Contributions made on Astor
 The Astor framework gives us the opportunity to integrate our algorithm in a fairly modular fashion while imitating the patch generation process of Cardumen. The later is based on mining code templates from the buggy program. 
 We than added functionality that applies the concept of relative correctness to asses patchs quality. 
-The main contributions on Astor are the new modes of repair demonstrated in  the folder  [] () 
+The main contributions on Astor are the new modes of repair demonstrated in  the folder  [rcapr] (https://github.com/BesmaKH/CRCFix/tree/master/src/main/java/fr/inria/astor/approaches/rcapr) 
 The main classes are: 
 
 -
