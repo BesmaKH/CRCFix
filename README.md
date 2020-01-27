@@ -18,7 +18,7 @@ The main classes are:
 The test classes for the find first in sorted experiments are under this [class](https://github.com/BesmaKH/CRCFix/blob/master/src/test/java/fr/inria/astor/test/repair/QuixBugcr_rcfix.java)
  
 
-Our tool can be used effectively in the same way Astor does [ Astor readme] (https://github.com/SpoonLabs/astor/blob/master/README.md/)
+Our tool can be used effectively in the same way Astor does [Astor Readme File](https://github.com/SpoonLabs/astor/blob/master/README.md/)
 
 
 
